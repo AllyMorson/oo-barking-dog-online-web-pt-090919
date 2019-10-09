@@ -11,7 +11,6 @@ def bark
   puts "Woof!"
   end
 end
-end 
 
 rover = Dog.new 
 rover.bark
